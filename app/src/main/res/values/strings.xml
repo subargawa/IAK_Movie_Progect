@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IAK_Movie_Progect</string>
+    <string name="title_activity_home_">Home_Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tes">tes</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_home__2">Home_Activity_2</string>
+</resources>
